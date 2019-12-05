@@ -35,7 +35,7 @@ carpentry: "lc"
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "Let's Learn Data! ...and Git"
+title: "Library Carpentries: Building Skills in Data, SQL, and Git for Any Librarian"
 
 
 #------------------------------------------------------------
